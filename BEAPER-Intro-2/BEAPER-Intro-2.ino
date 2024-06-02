@@ -1,5 +1,5 @@
 /*
- Project:  Intro-2-Variables       Activity: mirobo.tech/beaper-intro-1
+ Project:  Intro-2-Variables       Activity: mirobo.tech/beaper-intro-2
  Date:     June 1, 2024
 
  This introductory programming activity for the mirobo.tech BEAPER circuit
